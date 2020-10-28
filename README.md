@@ -5,6 +5,9 @@
 <a href="https://www.instagram.com/maksitheslayer/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://www.facebook.com/maksym.kabak">
+  <img align="left" alt="Abhishek's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Maksym-Kabak.Maksym-Kabak)
 
